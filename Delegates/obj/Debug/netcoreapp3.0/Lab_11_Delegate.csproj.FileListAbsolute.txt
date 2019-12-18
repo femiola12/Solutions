@@ -1,0 +1,11 @@
+C:\Users\FOladiji\Engineering45\Labs\Delegates\bin\Debug\netcoreapp3.0\Lab_11_Delegate.exe
+C:\Users\FOladiji\Engineering45\Labs\Delegates\bin\Debug\netcoreapp3.0\Lab_11_Delegate.deps.json
+C:\Users\FOladiji\Engineering45\Labs\Delegates\bin\Debug\netcoreapp3.0\Lab_11_Delegate.runtimeconfig.json
+C:\Users\FOladiji\Engineering45\Labs\Delegates\bin\Debug\netcoreapp3.0\Lab_11_Delegate.runtimeconfig.dev.json
+C:\Users\FOladiji\Engineering45\Labs\Delegates\bin\Debug\netcoreapp3.0\Lab_11_Delegate.dll
+C:\Users\FOladiji\Engineering45\Labs\Delegates\bin\Debug\netcoreapp3.0\Lab_11_Delegate.pdb
+C:\Users\FOladiji\Engineering45\Labs\Delegates\obj\Debug\netcoreapp3.0\Lab_11_Delegate.csprojAssemblyReference.cache
+C:\Users\FOladiji\Engineering45\Labs\Delegates\obj\Debug\netcoreapp3.0\Lab_11_Delegate.AssemblyInfoInputs.cache
+C:\Users\FOladiji\Engineering45\Labs\Delegates\obj\Debug\netcoreapp3.0\Lab_11_Delegate.AssemblyInfo.cs
+C:\Users\FOladiji\Engineering45\Labs\Delegates\obj\Debug\netcoreapp3.0\Lab_11_Delegate.dll
+C:\Users\FOladiji\Engineering45\Labs\Delegates\obj\Debug\netcoreapp3.0\Lab_11_Delegate.pdb

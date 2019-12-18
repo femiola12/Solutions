@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Lab_03_Every_Feature_Compained/1.0.0": {
+        "runtime": {
+          "Lab_03_Every_Feature_Compained.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab_03_Every_Feature_Compained/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

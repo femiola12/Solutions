@@ -1,0 +1,11 @@
+C:\Users\FOladiji\Engineering45\Labs\Lab_10_Simple_Events\bin\Debug\netcoreapp3.0\Lab_10_Simple_Events.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab_10_Simple_Events\bin\Debug\netcoreapp3.0\Lab_10_Simple_Events.deps.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_10_Simple_Events\bin\Debug\netcoreapp3.0\Lab_10_Simple_Events.runtimeconfig.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_10_Simple_Events\bin\Debug\netcoreapp3.0\Lab_10_Simple_Events.runtimeconfig.dev.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_10_Simple_Events\bin\Debug\netcoreapp3.0\Lab_10_Simple_Events.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_10_Simple_Events\bin\Debug\netcoreapp3.0\Lab_10_Simple_Events.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_10_Simple_Events\obj\Debug\netcoreapp3.0\Lab_10_Simple_Events.AssemblyInfoInputs.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_10_Simple_Events\obj\Debug\netcoreapp3.0\Lab_10_Simple_Events.AssemblyInfo.cs
+C:\Users\FOladiji\Engineering45\Labs\Lab_10_Simple_Events\obj\Debug\netcoreapp3.0\Lab_10_Simple_Events.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_10_Simple_Events\obj\Debug\netcoreapp3.0\Lab_10_Simple_Events.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_10_Simple_Events\obj\Debug\netcoreapp3.0\Lab_10_Simple_Events.csprojAssemblyReference.cache

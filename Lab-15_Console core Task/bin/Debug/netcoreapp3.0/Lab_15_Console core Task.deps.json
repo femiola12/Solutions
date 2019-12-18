@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Lab_15_Console core Task/1.0.0": {
+        "runtime": {
+          "Lab_15_Console core Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab_15_Console core Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

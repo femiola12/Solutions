@@ -1,0 +1,62 @@
+﻿<Window x:Class="Lab_13_WPF_ToDo_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_13_WPF_ToDo_Application"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="Auto" Width="Auto" FontSize="23" FontWeight="Bold" Background="#5effe5">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Grid.Column="2" Grid.ColumnSpan="4" Content="To Do Application" Background="#56C6E8"  
+               HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalAlignment="Center"/>
+        <TabPanel Grid.Row="3" Grid.ColumnSpan="4" Grid.RowSpan="3" Background="#5B48E8" Margin="47,9.8,47.8,40.6">
+            <ListBox x:Name="ListBoxTasks" SelectionChanged="ListBoxTasks_SelectionChanged" MouseDoubleClick="ButtonEdit_Click"/>
+
+
+        </TabPanel>
+        <TextBox x:Name="TextBoxID" Grid.Row="2" Grid.Column="4" IsReadOnly="True" Background="Beige"/>
+        <TextBox x:Name="TextBoxDescription" Grid.Row="2" Grid.Column="5" IsReadOnly="True" Background="Beige"/>
+        <TextBox x:Name="TextBoxCategoryID" Grid.Row="2" Grid.Column="6" IsReadOnly="True" Background="Beige"/>
+        <Label x:Name="LabelID" Content="ID" Grid.Row="1" Grid.Column="4"/>
+        <Label x:Name="LabelDescription" Content="Description" Grid.Row="1" Grid.Column="5"/>
+        <Label x:Name="LabelCategoryID" Content="Category" Grid.Row="1" Grid.Column="6"/>
+        <Button x:Name="ButtonEdit" Content="Edit" IsEnabled="False" Grid.Column="1" Click="ButtonEdit_Click" Background="Bisque" Margin="24.8,50,69.6,50.2" Grid.ColumnSpan="2" Grid.RowSpan="3"/>
+        <Button x:Name="ButtonDelete" Content="Delete" IsEnabled="True" Click="ButtonDelete_Click" Background="Bisque" Margin="10,50,88.4,50.2" Grid.RowSpan="3" Grid.ColumnSpan="2"/>
+        <Button x:Name="ButtonAdd" Content="Add" IsEnabled="False" Grid.Row="1" Grid.Column="2" Click="ButtonAdd_Click" Background="Bisque" Margin="43.6,2.6,47.8,50.2" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+
+        <ComboBox  x:Name="ComboBoxCategortyID"      Grid.Column="4" HorizontalAlignment="Left" Margin="70.2,12.8,0,0" Grid.Row="3" VerticalAlignment="Top" Width="215" Height="102" RenderTransformOrigin="0.538,-0.554" Grid.ColumnSpan="3"/>
+        <TabControl x:Name="Tabs"    Grid.ColumnSpan="4" HorizontalAlignment="Left" Height="196" Margin="41.2,125.8,0,0" Grid.Row="3" Grid.RowSpan="3" VerticalAlignment="Top" Width="254" Grid.Column="4">
+            <TabItem Header="Task">
+                <Grid Background="#FFE5E5E5" Margin="367,67,-367.2,-67.4"/>
+
+            </TabItem>
+            <TabItem Header="Users">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Category">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
+
+
+    </Grid>
+</Window>

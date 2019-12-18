@@ -1,0 +1,11 @@
+C:\Users\FOladiji\Engineering45\Labs\Lab_02_OOP_Mammals_with_interfaces\bin\Debug\netcoreapp3.0\Lab_02_OOP_Mammals_with_interfaces.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab_02_OOP_Mammals_with_interfaces\bin\Debug\netcoreapp3.0\Lab_02_OOP_Mammals_with_interfaces.deps.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_02_OOP_Mammals_with_interfaces\bin\Debug\netcoreapp3.0\Lab_02_OOP_Mammals_with_interfaces.runtimeconfig.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_02_OOP_Mammals_with_interfaces\bin\Debug\netcoreapp3.0\Lab_02_OOP_Mammals_with_interfaces.runtimeconfig.dev.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_02_OOP_Mammals_with_interfaces\bin\Debug\netcoreapp3.0\Lab_02_OOP_Mammals_with_interfaces.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_02_OOP_Mammals_with_interfaces\bin\Debug\netcoreapp3.0\Lab_02_OOP_Mammals_with_interfaces.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_02_OOP_Mammals_with_interfaces\obj\Debug\netcoreapp3.0\Lab_02_OOP_Mammals_with_interfaces.vbprojAssemblyReference.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_02_OOP_Mammals_with_interfaces\obj\Debug\netcoreapp3.0\Lab_02_OOP_Mammals_with_interfaces.AssemblyInfoInputs.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_02_OOP_Mammals_with_interfaces\obj\Debug\netcoreapp3.0\Lab_02_OOP_Mammals_with_interfaces.AssemblyInfo.vb
+C:\Users\FOladiji\Engineering45\Labs\Lab_02_OOP_Mammals_with_interfaces\obj\Debug\netcoreapp3.0\Lab_02_OOP_Mammals_with_interfaces.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_02_OOP_Mammals_with_interfaces\obj\Debug\netcoreapp3.0\Lab_02_OOP_Mammals_with_interfaces.pdb

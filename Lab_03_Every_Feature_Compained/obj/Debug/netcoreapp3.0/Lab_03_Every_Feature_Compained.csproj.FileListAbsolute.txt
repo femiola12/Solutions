@@ -1,0 +1,11 @@
+C:\Users\FOladiji\Engineering45\Labs\Lab_03_Every_Feature_Compained\bin\Debug\netcoreapp3.0\Lab_03_Every_Feature_Compained.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab_03_Every_Feature_Compained\bin\Debug\netcoreapp3.0\Lab_03_Every_Feature_Compained.deps.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_03_Every_Feature_Compained\bin\Debug\netcoreapp3.0\Lab_03_Every_Feature_Compained.runtimeconfig.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_03_Every_Feature_Compained\bin\Debug\netcoreapp3.0\Lab_03_Every_Feature_Compained.runtimeconfig.dev.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_03_Every_Feature_Compained\bin\Debug\netcoreapp3.0\Lab_03_Every_Feature_Compained.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_03_Every_Feature_Compained\bin\Debug\netcoreapp3.0\Lab_03_Every_Feature_Compained.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_03_Every_Feature_Compained\obj\Debug\netcoreapp3.0\Lab_03_Every_Feature_Compained.csprojAssemblyReference.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_03_Every_Feature_Compained\obj\Debug\netcoreapp3.0\Lab_03_Every_Feature_Compained.AssemblyInfoInputs.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_03_Every_Feature_Compained\obj\Debug\netcoreapp3.0\Lab_03_Every_Feature_Compained.AssemblyInfo.cs
+C:\Users\FOladiji\Engineering45\Labs\Lab_03_Every_Feature_Compained\obj\Debug\netcoreapp3.0\Lab_03_Every_Feature_Compained.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_03_Every_Feature_Compained\obj\Debug\netcoreapp3.0\Lab_03_Every_Feature_Compained.pdb

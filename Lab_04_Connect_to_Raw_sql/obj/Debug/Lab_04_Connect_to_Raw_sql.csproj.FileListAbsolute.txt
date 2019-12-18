@@ -1,0 +1,6 @@
+C:\Users\FOladiji\Engineering45\Labs\Lab_04_Connect_to_Raw_sql\bin\Debug\Lab_04_Connect_to_Raw_sql.exe.config
+C:\Users\FOladiji\Engineering45\Labs\Lab_04_Connect_to_Raw_sql\bin\Debug\Lab_04_Connect_to_Raw_sql.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab_04_Connect_to_Raw_sql\bin\Debug\Lab_04_Connect_to_Raw_sql.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_04_Connect_to_Raw_sql\obj\Debug\Lab_04_Connect_to_Raw_sql.csprojAssemblyReference.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_04_Connect_to_Raw_sql\obj\Debug\Lab_04_Connect_to_Raw_sql.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab_04_Connect_to_Raw_sql\obj\Debug\Lab_04_Connect_to_Raw_sql.pdb

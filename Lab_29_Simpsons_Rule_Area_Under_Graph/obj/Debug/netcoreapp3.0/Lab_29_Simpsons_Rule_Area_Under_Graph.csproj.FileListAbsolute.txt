@@ -1,0 +1,11 @@
+C:\Users\FOladiji\Engineering45\Labs\Lab_29_Simpsons_Rule_Area_Under_Graph\obj\Debug\netcoreapp3.0\Lab_29_Simpsons_Rule_Area_Under_Graph.AssemblyInfoInputs.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_29_Simpsons_Rule_Area_Under_Graph\obj\Debug\netcoreapp3.0\Lab_29_Simpsons_Rule_Area_Under_Graph.AssemblyInfo.cs
+C:\Users\FOladiji\Engineering45\Labs\Lab_29_Simpsons_Rule_Area_Under_Graph\bin\Debug\netcoreapp3.0\Lab_29_Simpsons_Rule_Area_Under_Graph.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab_29_Simpsons_Rule_Area_Under_Graph\bin\Debug\netcoreapp3.0\Lab_29_Simpsons_Rule_Area_Under_Graph.deps.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_29_Simpsons_Rule_Area_Under_Graph\bin\Debug\netcoreapp3.0\Lab_29_Simpsons_Rule_Area_Under_Graph.runtimeconfig.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_29_Simpsons_Rule_Area_Under_Graph\bin\Debug\netcoreapp3.0\Lab_29_Simpsons_Rule_Area_Under_Graph.runtimeconfig.dev.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_29_Simpsons_Rule_Area_Under_Graph\bin\Debug\netcoreapp3.0\Lab_29_Simpsons_Rule_Area_Under_Graph.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_29_Simpsons_Rule_Area_Under_Graph\bin\Debug\netcoreapp3.0\Lab_29_Simpsons_Rule_Area_Under_Graph.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_29_Simpsons_Rule_Area_Under_Graph\obj\Debug\netcoreapp3.0\Lab_29_Simpsons_Rule_Area_Under_Graph.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_29_Simpsons_Rule_Area_Under_Graph\obj\Debug\netcoreapp3.0\Lab_29_Simpsons_Rule_Area_Under_Graph.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_29_Simpsons_Rule_Area_Under_Graph\obj\Debug\netcoreapp3.0\Lab_29_Simpsons_Rule_Area_Under_Graph.csprojAssemblyReference.cache

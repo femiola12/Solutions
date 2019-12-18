@@ -1,0 +1,11 @@
+C:\Users\FOladiji\Engineering45\Labs\Lab_02\bin\Debug\netcoreapp3.0\Lab_02.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab_02\bin\Debug\netcoreapp3.0\Lab_02.deps.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_02\bin\Debug\netcoreapp3.0\Lab_02.runtimeconfig.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_02\bin\Debug\netcoreapp3.0\Lab_02.runtimeconfig.dev.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_02\bin\Debug\netcoreapp3.0\Lab_02.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_02\bin\Debug\netcoreapp3.0\Lab_02.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_02\obj\Debug\netcoreapp3.0\Lab_02.AssemblyInfoInputs.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_02\obj\Debug\netcoreapp3.0\Lab_02.AssemblyInfo.cs
+C:\Users\FOladiji\Engineering45\Labs\Lab_02\obj\Debug\netcoreapp3.0\Lab_02.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_02\obj\Debug\netcoreapp3.0\Lab_02.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_02\obj\Debug\netcoreapp3.0\Lab_02.csprojAssemblyReference.cache

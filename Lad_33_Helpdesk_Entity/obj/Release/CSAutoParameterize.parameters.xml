@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="AzureHelpdeskModel1-Web.config Connection String" description="AzureHelpdeskModel1 Connection String used in web.config by the application to access the database." defaultValue="Data Source=oladijiserve.database.windows.net;Initial Catalog=HelpDesk;User ID=femioladiji;Password=king2019@;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\FOladiji\\Engineering45\\Labs\\Lad_33_Helpdesk_Entity\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AzureHelpdeskModel1']/@connectionString" />
+  </parameter>
+</parameters>

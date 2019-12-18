@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Lab_29_Simpsons_Rule_Area_Under_Graph/1.0.0": {
+        "runtime": {
+          "Lab_29_Simpsons_Rule_Area_Under_Graph.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab_29_Simpsons_Rule_Area_Under_Graph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

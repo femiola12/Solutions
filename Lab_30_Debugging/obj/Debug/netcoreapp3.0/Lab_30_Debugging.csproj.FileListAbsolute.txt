@@ -1,0 +1,10 @@
+C:\Users\FOladiji\Engineering45\Labs\Lab_30_Debugging\bin\Debug\netcoreapp3.0\Lab_30_Debugging.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab_30_Debugging\bin\Debug\netcoreapp3.0\Lab_30_Debugging.deps.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_30_Debugging\bin\Debug\netcoreapp3.0\Lab_30_Debugging.runtimeconfig.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_30_Debugging\bin\Debug\netcoreapp3.0\Lab_30_Debugging.runtimeconfig.dev.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_30_Debugging\bin\Debug\netcoreapp3.0\Lab_30_Debugging.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_30_Debugging\bin\Debug\netcoreapp3.0\Lab_30_Debugging.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_30_Debugging\obj\Debug\netcoreapp3.0\Lab_30_Debugging.AssemblyInfoInputs.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_30_Debugging\obj\Debug\netcoreapp3.0\Lab_30_Debugging.AssemblyInfo.cs
+C:\Users\FOladiji\Engineering45\Labs\Lab_30_Debugging\obj\Debug\netcoreapp3.0\Lab_30_Debugging.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_30_Debugging\obj\Debug\netcoreapp3.0\Lab_30_Debugging.pdb

@@ -1,0 +1,16 @@
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\bin\Debug\netcoreapp3.0\Lab_22_Serialization.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\bin\Debug\netcoreapp3.0\Lab_24_Serliza_Binary.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\bin\Debug\netcoreapp3.0\Lab_24_Serliza_Binary.deps.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\bin\Debug\netcoreapp3.0\Lab_24_Serliza_Binary.runtimeconfig.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\bin\Debug\netcoreapp3.0\Lab_24_Serliza_Binary.runtimeconfig.dev.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\bin\Debug\netcoreapp3.0\Lab_24_Serliza_Binary.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\bin\Debug\netcoreapp3.0\Lab_24_Serliza_Binary.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\bin\Debug\netcoreapp3.0\SoapFormatter.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\bin\Debug\netcoreapp3.0\Lab_22_Serialization.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\bin\Debug\netcoreapp3.0\Lab_22_Serialization.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\obj\Debug\netcoreapp3.0\Lab_24_Serliza_Binary.csprojAssemblyReference.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\obj\Debug\netcoreapp3.0\Lab_24_Serliza_Binary.AssemblyInfoInputs.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\obj\Debug\netcoreapp3.0\Lab_24_Serliza_Binary.AssemblyInfo.cs
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\obj\Debug\netcoreapp3.0\Lab_24_Serliza_Binary.csproj.CopyComplete
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\obj\Debug\netcoreapp3.0\Lab_24_Serliza_Binary.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_24_Serliza_Binary\obj\Debug\netcoreapp3.0\Lab_24_Serliza_Binary.pdb

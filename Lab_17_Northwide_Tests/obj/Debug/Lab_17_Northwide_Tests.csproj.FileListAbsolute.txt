@@ -1,0 +1,11 @@
+C:\Users\FOladiji\Engineering45\Labs\Lab_17_Northwide_Tests\bin\Debug\Lab_17_Northwide_Tests.exe.config
+C:\Users\FOladiji\Engineering45\Labs\Lab_17_Northwide_Tests\bin\Debug\Lab_17_Northwide_Tests.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab_17_Northwide_Tests\bin\Debug\Lab_17_Northwide_Tests.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_17_Northwide_Tests\bin\Debug\EntityFramework.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_17_Northwide_Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_17_Northwide_Tests\bin\Debug\EntityFramework.xml
+C:\Users\FOladiji\Engineering45\Labs\Lab_17_Northwide_Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FOladiji\Engineering45\Labs\Lab_17_Northwide_Tests\obj\Debug\Lab_17_Northwide_Tests.csprojAssemblyReference.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_17_Northwide_Tests\obj\Debug\Lab_17_Northwide_Tests.csproj.CopyComplete
+C:\Users\FOladiji\Engineering45\Labs\Lab_17_Northwide_Tests\obj\Debug\Lab_17_Northwide_Tests.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab_17_Northwide_Tests\obj\Debug\Lab_17_Northwide_Tests.pdb

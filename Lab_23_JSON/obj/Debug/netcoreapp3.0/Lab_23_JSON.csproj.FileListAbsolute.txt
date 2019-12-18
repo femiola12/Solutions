@@ -1,0 +1,13 @@
+C:\Users\FOladiji\Engineering45\Labs\Lab_23_JSON\bin\Debug\netcoreapp3.0\Lab_23_JSON.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab_23_JSON\obj\Debug\netcoreapp3.0\Lab_23_JSON.AssemblyInfoInputs.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_23_JSON\obj\Debug\netcoreapp3.0\Lab_23_JSON.AssemblyInfo.cs
+C:\Users\FOladiji\Engineering45\Labs\Lab_23_JSON\bin\Debug\netcoreapp3.0\Lab_23_JSON.deps.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_23_JSON\bin\Debug\netcoreapp3.0\Lab_23_JSON.runtimeconfig.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_23_JSON\bin\Debug\netcoreapp3.0\Lab_23_JSON.runtimeconfig.dev.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_23_JSON\bin\Debug\netcoreapp3.0\Lab_23_JSON.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_23_JSON\bin\Debug\netcoreapp3.0\Lab_23_JSON.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_23_JSON\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_23_JSON\obj\Debug\netcoreapp3.0\Lab_23_JSON.csprojAssemblyReference.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_23_JSON\obj\Debug\netcoreapp3.0\Lab_23_JSON.csproj.CopyComplete
+C:\Users\FOladiji\Engineering45\Labs\Lab_23_JSON\obj\Debug\netcoreapp3.0\Lab_23_JSON.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_23_JSON\obj\Debug\netcoreapp3.0\Lab_23_JSON.pdb

@@ -1,0 +1,11 @@
+C:\Users\FOladiji\Engineering45\Labs\Lab_12_OOP_Events\bin\Debug\netcoreapp3.0\Lab_12_OOP_Events.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab_12_OOP_Events\bin\Debug\netcoreapp3.0\Lab_12_OOP_Events.deps.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_12_OOP_Events\bin\Debug\netcoreapp3.0\Lab_12_OOP_Events.runtimeconfig.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_12_OOP_Events\bin\Debug\netcoreapp3.0\Lab_12_OOP_Events.runtimeconfig.dev.json
+C:\Users\FOladiji\Engineering45\Labs\Lab_12_OOP_Events\bin\Debug\netcoreapp3.0\Lab_12_OOP_Events.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_12_OOP_Events\bin\Debug\netcoreapp3.0\Lab_12_OOP_Events.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_12_OOP_Events\obj\Debug\netcoreapp3.0\Lab_12_OOP_Events.AssemblyInfoInputs.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab_12_OOP_Events\obj\Debug\netcoreapp3.0\Lab_12_OOP_Events.AssemblyInfo.cs
+C:\Users\FOladiji\Engineering45\Labs\Lab_12_OOP_Events\obj\Debug\netcoreapp3.0\Lab_12_OOP_Events.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab_12_OOP_Events\obj\Debug\netcoreapp3.0\Lab_12_OOP_Events.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab_12_OOP_Events\obj\Debug\netcoreapp3.0\Lab_12_OOP_Events.csprojAssemblyReference.cache

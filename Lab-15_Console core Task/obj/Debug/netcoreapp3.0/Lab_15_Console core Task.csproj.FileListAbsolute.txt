@@ -1,0 +1,11 @@
+C:\Users\FOladiji\Engineering45\Labs\Lab-15_Console core Task\bin\Debug\netcoreapp3.0\Lab_15_Console core Task.exe
+C:\Users\FOladiji\Engineering45\Labs\Lab-15_Console core Task\bin\Debug\netcoreapp3.0\Lab_15_Console core Task.deps.json
+C:\Users\FOladiji\Engineering45\Labs\Lab-15_Console core Task\bin\Debug\netcoreapp3.0\Lab_15_Console core Task.runtimeconfig.json
+C:\Users\FOladiji\Engineering45\Labs\Lab-15_Console core Task\bin\Debug\netcoreapp3.0\Lab_15_Console core Task.runtimeconfig.dev.json
+C:\Users\FOladiji\Engineering45\Labs\Lab-15_Console core Task\bin\Debug\netcoreapp3.0\Lab_15_Console core Task.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab-15_Console core Task\bin\Debug\netcoreapp3.0\Lab_15_Console core Task.pdb
+C:\Users\FOladiji\Engineering45\Labs\Lab-15_Console core Task\obj\Debug\netcoreapp3.0\Lab_15_Console core Task.csprojAssemblyReference.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab-15_Console core Task\obj\Debug\netcoreapp3.0\Lab_15_Console core Task.AssemblyInfoInputs.cache
+C:\Users\FOladiji\Engineering45\Labs\Lab-15_Console core Task\obj\Debug\netcoreapp3.0\Lab_15_Console core Task.AssemblyInfo.cs
+C:\Users\FOladiji\Engineering45\Labs\Lab-15_Console core Task\obj\Debug\netcoreapp3.0\Lab_15_Console core Task.dll
+C:\Users\FOladiji\Engineering45\Labs\Lab-15_Console core Task\obj\Debug\netcoreapp3.0\Lab_15_Console core Task.pdb

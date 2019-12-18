@@ -1,0 +1,10 @@
+C:\Users\FOladiji\Engineering45\Labs\Delegates\bin\Debug\netcoreapp3.0\Delegates.exe
+C:\Users\FOladiji\Engineering45\Labs\Delegates\bin\Debug\netcoreapp3.0\Delegates.deps.json
+C:\Users\FOladiji\Engineering45\Labs\Delegates\bin\Debug\netcoreapp3.0\Delegates.runtimeconfig.json
+C:\Users\FOladiji\Engineering45\Labs\Delegates\bin\Debug\netcoreapp3.0\Delegates.runtimeconfig.dev.json
+C:\Users\FOladiji\Engineering45\Labs\Delegates\bin\Debug\netcoreapp3.0\Delegates.dll
+C:\Users\FOladiji\Engineering45\Labs\Delegates\bin\Debug\netcoreapp3.0\Delegates.pdb
+C:\Users\FOladiji\Engineering45\Labs\Delegates\obj\Debug\netcoreapp3.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\FOladiji\Engineering45\Labs\Delegates\obj\Debug\netcoreapp3.0\Delegates.AssemblyInfo.cs
+C:\Users\FOladiji\Engineering45\Labs\Delegates\obj\Debug\netcoreapp3.0\Delegates.dll
+C:\Users\FOladiji\Engineering45\Labs\Delegates\obj\Debug\netcoreapp3.0\Delegates.pdb
